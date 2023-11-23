@@ -8,4 +8,4 @@ This repository contains code and resources for a Convolutional Neural Network (
 - notebooks: Jupyter notebooks for exploratory data analysis, model training, and evaluation.
 
   ## Results
-  Accuracy : 67%
+  Accuracy : 74%
